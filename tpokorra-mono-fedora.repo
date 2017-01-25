@@ -1,0 +1,7 @@
+[tpokorra-mono]
+name=Copr repo for mono owned by tpokorra
+baseurl=https://copr-be.cloud.fedoraproject.org/results/tpokorra/mono/fedora-$releasever-$basearch/
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/tpokorra/mono/pubkey.gpg
+enabled=1
